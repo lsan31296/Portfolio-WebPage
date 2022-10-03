@@ -43,3 +43,7 @@ a:link {color:lightgrey;}
 a:visited {color: darkgreen;}
 a:hover {color: pink;}
 a:active {color: lightblue;}
+
+footer {
+  font-size: 16px;
+}
